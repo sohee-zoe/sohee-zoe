@@ -31,9 +31,14 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohee-zoe&count_private=true&hide=contribs,prs&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohee-zoe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=sohee-zoe&theme=transparent&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohee-zoe&count_private=true&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohee-zoe&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=soraemon)](https://solved.ac/soraemon/) -->
 <!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sohee-zoe&" alt="sohee-zoe" /> -->
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
+![snake gif](https://github.com/sohee-zoe/sohee-zoe/blob/output/github-contribution-grid-snake.svg)
