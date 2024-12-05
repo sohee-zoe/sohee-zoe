@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 
 <!--
-**soraennon/soraennon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sohee-zoe/sohee-zoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soraennon&count_private=true&hide=contribs,prs&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soraennon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohee-zoe&count_private=true&hide=contribs,prs&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohee-zoe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=soraemon)](https://solved.ac/soraemon/) -->
-<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soraennon&" alt="soraennon" /> -->
+<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sohee-zoe&" alt="sohee-zoe" /> -->
